@@ -1,0 +1,13 @@
+{
+  "title": "SK Store",
+  "price": 49,
+  "description": "Premium Android App - SK Store. Fast, secure and easy to use. Download after payment confirmation.",
+  "screenshots": [],
+  "apkFile": null,
+  "upiId": "yourupi@paytm",
+  "bankName": "Your Bank Name",
+  "accountNumber": "XXXXXXXXXXXX",
+  "ifsc": "XXXX0000000",
+  "accountHolder": "Your Name",
+  "whatsapp": "91XXXXXXXXXX"
+}

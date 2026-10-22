@@ -1,0 +1,11 @@
+{
+  "name": "sk-store",
+  "version": "1.0.0",
+  "description": "SK Store - Digital App Selling Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "SK Store",
+  "license": "ISC"
+}
